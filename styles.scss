@@ -1,0 +1,29 @@
+.LoginForm {
+    width: 500px;
+    margin: 0 auto;
+
+    .LoginForm_form > input{
+        margin: 10px 0;
+    }
+
+    .LoginForm_button {
+        float: right;
+    }
+}
+
+.TableTasks {
+    width: 900px;
+    margin: 0 auto;
+}
+.scrum_table {
+  width: 900px;
+  margin: 0 auto;
+}
+
+.scrum_column {
+  display: inline-block;
+  width: 300px;
+}
+.scrum_column > *{
+  cursor: pointer
+}
