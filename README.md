@@ -1,5 +1,5 @@
 # Ui-task-manager
 
-Start node server.js
+Start: 1) node server.js
 
-npm run watch
+2) npm run watch
